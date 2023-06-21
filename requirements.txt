@@ -1,0 +1,6 @@
+pandas 
+numpy
+matlotlib
+seaborn
+scikit-learn
+tensorflow > 2.0
